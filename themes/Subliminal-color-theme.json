@@ -47,7 +47,7 @@
     "statusBar.debuggingBackground": "#7e0097",
     "statusBar.debuggingBorder": "#66017a",
     "statusBar.debuggingForeground": "#ffffff",
-    "terminal.ansiBlack": "#7F7F7F",
+    "terminal.ansiBlack": "#555"",
     "terminal.ansiBrightBlack": "#7F7F7F",
     "terminal.ansiRed": "#E15A60",
     "terminal.ansiBrightRed": "#E15A60",
